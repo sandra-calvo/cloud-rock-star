@@ -65,4 +65,4 @@ Access your application by clicking in the 'Visit App URL'.
 Fantastic! Lab 0 is complete! :smile:
 
 In this lab you created your first Node.js application on IBM Cloud using Cloud Foundry public environment.
-Now that your application is ready go to [Lab 1 - Enable Delivery Pipeline](link). 
+Now that your application is ready go to [Lab 1 - Enable Delivery Pipeline](https://github.com/sandra-calvo/cloud-rock-star/tree/master/Lab%201%20-%20Enable%20Delivery%20Pipeline). 
