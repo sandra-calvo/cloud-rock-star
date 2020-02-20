@@ -4,8 +4,8 @@
 
 In this workshop:
   - [Introduction](#introduction)
-  - [Lab 0 - Build your first application](LINK)
-  - [Lab 1 - Enable Delivery Pipeline](link)
+  - [Lab 0 - Build your first application](https://github.com/sandra-calvo/cloud-rock-star/tree/master/Lab%200%20-%20Build%20your%20first%20application)
+  - [Lab 1 - Enable Delivery Pipeline](https://github.com/sandra-calvo/cloud-rock-star/tree/master/Lab%201%20-%20Enable%20Delivery%20Pipeline)
   - [Lab 2 - Modify your application](link)
   - [Lab 3 - Add Events API](link)
   - [Lab 4 - Add Weather API](link)
@@ -34,15 +34,7 @@ In this lab, you'll learn to create XXXXXX. You'll also integrate XXXXXX. You'll
 
 ## Tools 
 
-In this lab, you'll use IBM Watson Studio to build classification models to predict (identify) animal sounds and use IBM Watson Visual Recognition to identify images of those animals. You'll learn how best to gather and prepare data, create and deploy models, deploy and test a signal processing application, create models with binary and multiclass classifications, and display the predictions on a web page that you create by using Node-RED.
-
-- IBM Cloud: 
-
-- Cloud Foundry - Node.js: 
-
-- Delivery Pipeline: 
-
-- Git: 
+In this lab, you'll use IBM Cloud.....
 
 
 ### Data
@@ -53,4 +45,4 @@ This lab uses ....
 ## Summary
 
 Time to get started with the labs! 
-Go to [Lab 0 - Build your first application](LINK).
+Go to [Lab 0 - Build your first application](https://github.com/sandra-calvo/cloud-rock-star/tree/master/Lab%200%20-%20Build%20your%20first%20application).
