@@ -16,8 +16,6 @@ In this lab you will create your first Node.js application using Cloud Foundry P
 
 **Toolchain**: A set of tool integrations that support development, deployment, and operations tasks. The collective power of a toolchain is greater than the sum of its individual tool integrations.
 
-<img src="/images/toolchain.png" width="70%" height="70%">
-
 **Git**: Distributed version-control system. With Git, you can track changes to your content and collaborate on it with your team in an agile way. Git is fast because its repos are stored locally instead of on a remote computer. Some people consider Git to be the lingua franca of version control.
 
 **Repository**: A software repository, or “repo” for short, is a storage location for software packages. Often a table of contents is stored, source code, as well as metadata. 
@@ -103,4 +101,7 @@ After a few moments, your new toolchain's Overview page opens.
 Lab 1 is complete! Congrats! :smiley:
 
 In this lab you starter your DevOps journey enabling a delivery pipeline for your application. 
+
+<img src="/images/toolchain.png" width="70%" height="70%">
+
 Now that your delivery pipeline is ready go to [Lab 2 - Modify your application](link). 
