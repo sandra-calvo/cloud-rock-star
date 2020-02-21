@@ -3,7 +3,7 @@
 In this lab you will create your first Node.js application using Cloud Foundry Public environments. 
 
   - [Need to know](#need-to-know)
-  - [Node.js application components](#node.js-application-components)
+  - [Application components](#application-components)
   - [Modify your code](#modify-your-code)
   - [Summary](#summary)
   
@@ -14,7 +14,7 @@ In this lab you will create your first Node.js application using Cloud Foundry P
 
 **XXXXXXX**: 
 
-## Node.js application components
+## Application components
 
 Your delivery pipeline is ready and now we will access the source code. This toolchain includes tools to develop and deploy the application. 
 
@@ -255,25 +255,44 @@ applications:
 
 ## Modify your code
 
-X. Let's configure the toolchain
+4. It's time to modify your source code
+- Go to the public folder and then open the index.html file. 
+- Click 'Edit' to edit your file. 
 
-<img src="/images/congfigure-toolchain.png" width="100%" height="100%">
+<img src="/images/edit-index.png" width="100%" height="100%">
 
-X. Git repos and issue tracking
+- In the line 19 change the text "Hello World!" to anything you want. 
+- Then add a commit message at the end to record your changes in the source code. 
+- When you are ready click 'Commit changes'. 
 
-<img src="/images/congfigure-git-issues.png" width="100%" height="100%">
+<img src="/images/change-text.png" width="100%" height="100%">
 
-X. Delivery Pipeline
+This will save your changes and start the delivery pipeline. 
 
+5. Delivery pipeline running
 
-**Congratulations, you modified your source code!** :clap:
+If you checked the delivery pipeline before you could see it was not running before we modified our code. 
+
+<img src="/images/pipeline-not-running-yet.png" width="70%" height="70%">
+
+Once we commited the changes the build phase will start running. You can see your commit message is added to the build so last changes are recorded in the logs. 
+
+<img src="/images/build-runnnig.png" width="100%" height="100%">
+
+After few minutes your build and deploy phases will be ready and all changes will be visible in your application. 
+
+<img src="/images/build-deploy-ready.png" width="100%" height="100%">
+
+6. Visit your application to see the changes
+
+<img src="/images/new-app.png" width="100%" height="100%">
+
+**Congratulations, you modified your source code!** :+1:
 
 ## Summary
 
 Lab 2 is complete! Good Job! 
 
 In this lab you learned about the Node.js application components and modified the source code of the sample application. 
-
-<img src="/images/toolchain.png" width="70%" height="70%">
 
 Now that you know how to modify your code, let's crete a cool application using open data. [Lab 3 - Add events API](link). 
