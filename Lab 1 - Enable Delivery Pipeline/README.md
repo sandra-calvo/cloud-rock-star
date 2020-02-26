@@ -104,4 +104,4 @@ In this lab you starter your DevOps journey enabling a delivery pipeline for you
 
 <img src="/images/toolchain.png" width="70%" height="70%">
 
-Now that your delivery pipeline is ready go to [Lab 2 - Modify your application](link). 
+Now that your delivery pipeline is ready go to [Lab 2 - Modify your application](https://github.com/sandra-calvo/cloud-rock-star/tree/master/Lab%202%20-%20Modify%20your%20application). 
