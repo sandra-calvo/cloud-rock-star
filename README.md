@@ -6,7 +6,7 @@ In this workshop:
   - [Introduction](#introduction)
   - [Lab 0 - Build your first application](https://github.com/sandra-calvo/cloud-rock-star/tree/master/Lab%200%20-%20Build%20your%20first%20application)
   - [Lab 1 - Enable Delivery Pipeline](https://github.com/sandra-calvo/cloud-rock-star/tree/master/Lab%201%20-%20Enable%20Delivery%20Pipeline)
-  - [Lab 2 - Modify your application](link)
+  - [Lab 2 - Modify your application](https://github.com/sandra-calvo/cloud-rock-star/tree/master/Lab%202%20-%20Modify%20your%20application)
   - [Lab 3 - Add Events API](link)
   - [Lab 4 - Add Weather API](link)
   - [Summary](#summary)
